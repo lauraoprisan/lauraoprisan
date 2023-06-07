@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Laura Oprisan</h1>
+<h1 align="center">Hi, I'm Laura Oprisan 👋</h1>
 <h3 align="center">I'm a software engineer from Romania</h3>
 
 - 🔭 Currently working on: [Human Library](https://github.com/lauraoprisan/human-library)
