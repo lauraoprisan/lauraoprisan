@@ -30,6 +30,7 @@
         
 <a href="https://github.com/lauraoprisan/human-library" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Github repo&color=#24292f"/>
+    <img src="https://img.shields.io/badge/Github_repo-#24292f"/>
 </a>  
 <!-- <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Website&message=Website&color=blue"/>
