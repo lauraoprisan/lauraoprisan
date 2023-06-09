@@ -27,34 +27,34 @@
         </a>
         <br />
         <p align="center">
-          
-            <a href="https://github.com/lauraoprisan/human-library" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=Github repo&message=Github repo&color=#24292f""/>
-            </a>  
-            <!-- <a href="" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=Website&message=Website&color=blue"/>
-            </a> -->
-        </p>
-        <p><strong>Javascript, EJS, CSS, Node.js, & Express.js, MongoDB</strong> -  A web application where people can read other people's life stories and share their own.</p>
-    </td>
-    <td width="50%" valign="top">
-        <h3 align="center">Sound Designer Portfolio</h3>
-            <br />
-        <a target="_blank" href="https://alexandruoprisan.eu/">
-                <img src="media/sound-designer.gif" width="100%"  alt="Sound Designer Portfolio"/>
-        </a>
+        
+<a href="https://github.com/lauraoprisan/human-library" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Github repo&message=Github repo&color=#24292f""/>
+</a>  
+<!-- <a href="" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Website&message=Website&color=blue"/>
+</a> -->
+</p>
+<p><strong>Javascript, EJS, CSS, Node.js, & Express.js, MongoDB</strong> -  A web application where people can read other people's life stories and share their own.</p>
+</td>
+<td width="50%" valign="top">
+    <h3 align="center">Sound Designer Portfolio</h3>
         <br />
-        <p align="center">
-          
-            <a href="https://github.com/lauraoprisan/alex-sound-design" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=Github repo&message=Github repo&color=#24292f"/>
-            </a>
-            <a href="https://alexandruoprisan.eu/" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=Website&message=Website&color=blue"/>
-            </a>
-      </p>
-        <p><strong>HTML, CSS, Javascript</strong> - A portfolio that integrates sounds and displays the work of the artist efficiently</p>
-    </td>
+    <a target="_blank" href="https://alexandruoprisan.eu/">
+            <img src="media/sound-designer.gif" width="100%"  alt="Sound Designer Portfolio"/>
+    </a>
+    <br />
+    <p align="center">
+        
+<a href="https://github.com/lauraoprisan/alex-sound-design" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Github repo&message=Github repo&color=#24292f"/>
+</a>
+<a href="https://alexandruoprisan.eu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=Website&message=Website&color=blue"/>
+</a>
+</p>
+<p><strong>HTML, CSS, Javascript</strong> - A portfolio that integrates sounds and displays the work of the artist efficiently</p>
+</td>
   </tr>
   
 </table>
