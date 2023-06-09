@@ -14,7 +14,7 @@
 
  🌱 Learning **React**
 
- 📄 Know about my experiences [href="docs/laura-oprisan-resume.pdf"](href="docs/laura-oprisan-resume.pdf")
+ 📄 Know about my experiences: [My resume](<a target="_blank" href="docs/laura-oprisan-resume.pdf">)
 
 
 <h2 align="center">Projects</h2>
