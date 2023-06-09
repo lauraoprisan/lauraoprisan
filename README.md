@@ -8,7 +8,10 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook account" height="20" width="27" />
     </a> -->
 </p>
+
+
 - 🔭 Currently working on: [Human Library](https://github.com/lauraoprisan/human-library)
+
 - 🌱 Learning **React**
 
 
