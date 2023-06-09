@@ -14,6 +14,8 @@
 
  🌱 Learning **React**
 
+ 📄 Know about my experiences [href="docs/laura-oprisan-resume.pdf"](href="docs/laura-oprisan-resume.pdf")
+
 
 <h2 align="center">Projects</h2>
 <table bordercolor="#66b2b2">
