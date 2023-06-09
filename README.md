@@ -14,7 +14,7 @@
 
  🌱 Learning **React**
 
- 📄 Know about my experiences: [Download Resume](<a target="_blank" href="docs/laura-oprisan-resume.pdf">)
+ 📄 Know about my experiences: [My Resume](<docs/laura-oprisan-resume.pdf>)
  
 
 
