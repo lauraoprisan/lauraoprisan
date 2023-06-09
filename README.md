@@ -10,9 +10,9 @@
 </p>
 
 
-- 🔭 Currently working on: [Human Library](https://github.com/lauraoprisan/human-library)
+ 🔭 Currently working on: [Human Library](https://github.com/lauraoprisan/human-library)
 
-- 🌱 Learning **React**
+ 🌱 Learning **React**
 
 
 <h2 align="center">Projects</h2>
