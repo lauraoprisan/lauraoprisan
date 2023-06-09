@@ -14,7 +14,7 @@
 
  🌱 Learning **React**
 
- 📄 Know about my experiences: [Download Resume](<a id="raw-url" href="https://raw.githubusercontent.com/lauraoprisan/lauraoprisan/main/docs/laura-oprisan-resume.pdf"></a>)
+ 📄 Know about my experiences: [Download Resume](<a target="_blank" href="docs/laura-oprisan-resume.pdf">)
  
 
 
