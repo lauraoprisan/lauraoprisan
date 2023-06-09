@@ -1,15 +1,14 @@
 <h1 align="center">Hi, I'm Laura Oprisan 👋</h1>
 <h3 align="center">I'm a software engineer from Romania</h3>
 <p align="center">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/laura-oprisan-680967256/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laura-oprisan-680967256/" height="20" width="27" />
+    <a href="https://www.linkedin.com/in/laura-oprisan-680967256/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linked in account" height="20" width="27" />
     </a>
-    <a href="https://fb.com/https://www.facebook.com/laura.isbasoiu" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/laura.isbasoiu" height="20" width="27" />
-    </a>
+    <!-- <a href="https://www.facebook.com/laura.isbasoiu" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook account" height="20" width="27" />
+    </a> -->
 </p>
 - 🔭 Currently working on: [Human Library](https://github.com/lauraoprisan/human-library)
-
 - 🌱 Learning **React**
 
 
@@ -27,7 +26,7 @@
         <p align="center">
         
 <a href="https://github.com/lauraoprisan/human-library" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=message=Github repo&color=#24292f"/>
+    <img src="https://img.shields.io/static/v1?message=Github repo&color=#24292f"/>
 </a>  
 <!-- <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=Website&message=Website&color=blue"/>
@@ -47,10 +46,10 @@
     <p align="center">
         
 <a href="https://github.com/lauraoprisan/alex-sound-design" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=message=Github repo&color=#24292f"/>
+    <img src="https://img.shields.io/static/v1?message=Github repo&color=#24292f"/>
 </a>
 <a href="https://alexandruoprisan.eu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=message=Website&color=blue"/>
+    <img src="https://img.shields.io/static/v1?message=Website&color=blue"/>
 </a>
 </p>
 <p align="center"><strong>HTML, CSS, Javascript</strong>
@@ -103,10 +102,10 @@
 </p> -->
 <h2 align="center">Connect</h2>
 <p align="center">
-    <a href="https://linkedin.com/in/https://www.linkedin.com/in/laura-oprisan-680967256/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/laura-oprisan-680967256/" height="30" width="40" />
+    <a href="https://www.linkedin.com/in/laura-oprisan-680967256/" target="blank">
+        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linked in account" height="30" width="40" />
     </a>
-    <a href="https://fb.com/https://www.facebook.com/laura.isbasoiu" target="blank">
+    <!-- <a href="https://fb.com/https://www.facebook.com/laura.isbasoiu" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/laura.isbasoiu" height="30" width="40" />
-    </a>
+    </a> -->
 </p>
