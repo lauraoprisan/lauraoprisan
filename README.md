@@ -91,7 +91,7 @@
     <h3 align="center">Noel Kindergarden</h3>
         <br />
     <a target="_blank" href="https://www.gradinita-noel.ro/">
-            <img src="media/noel.gif" width="100%"  alt="Sound Designer Portfolio"/>
+            <img src="media/noel.gif" width="100%"  alt="Kindergarden Presentation"/>
     </a>
     <br />
     <p align="center">
@@ -115,8 +115,8 @@
 <td width="50%" valign="top">
     <h3 align="center">Travel Advisor</h3>
         <br />
-    <a target="_blank" href="https://alexandruoprisan.eu/">
-            <img src="media/sound-designer.gif" width="100%"  alt="Sound Designer Portfolio"/>
+    <a target="_blank" href="https://trueblue.ro/">
+            <img src="media/travel.gif" width="100%"  alt="Travel Advisor Website"/>
     </a>
     <br />
     <p align="center">
@@ -124,7 +124,7 @@
 <!-- <a href="https://github.com/lauraoprisan/alex-sound-design" target="_blank">
     <img src="https://img.shields.io/badge/-Github%20repo-%2324292f"/>
 </a> -->
-<a href="https://www.gradinita-noel.ro/" target="_blank">
+<a href="https://trueblue.ro/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-blue"/>
 </a>
 </p>
