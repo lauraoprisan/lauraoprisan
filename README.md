@@ -20,7 +20,8 @@
 
 <h2 align="center">Projects</h2>
 <table bordercolor="#66b2b2">
-  
+
+<!--second row -->
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Human Library App</h3>
@@ -62,8 +63,71 @@
 <br />
  A portfolio that integrates sounds and displays the work of the artist efficiently</p>
 </td>
-  </tr>
-  
+</tr>
+
+<!--second row -->
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Dentist Office</h3>
+        <br />
+        <a target="_blank" href="https://dentist4u.ro/">
+            <img src="media/dentist.gif" width="100%" alt="Dentist office Presentation"/>
+        </a>
+        <br />
+        <p align="center">
+        
+<!-- <a href="https://github.com/lauraoprisan/human-library" target="_blank">
+    <img src="https://img.shields.io/badge/-Github%20repo-%2324292f"/>
+</a>   -->
+<a href="https://dentist4u.ro/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-blue"/>
+</a>
+</p>
+<p align="center"><strong>HTML, CSS, Javascript</strong> 
+<br />
+ A presentation about a dentist office with their team, services, prices and testimonials.</p>
+</td>
+<td width="33%" valign="top">
+    <h3 align="center">Noel Kindergarden</h3>
+        <br />
+    <a target="_blank" href="https://www.gradinita-noel.ro/">
+            <img src="media/noel.gif" width="100%"  alt="Sound Designer Portfolio"/>
+    </a>
+    <br />
+    <p align="center">
+        
+<!-- <a href="https://github.com/lauraoprisan/alex-sound-design" target="_blank">
+    <img src="https://img.shields.io/badge/-Github%20repo-%2324292f"/>
+</a> -->
+<a href="https://www.gradinita-noel.ro/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-blue"/>
+</a>
+</p>
+<p align="center"><strong>HTML, CSS</strong>
+<br />
+ A kindergarden presentation - optimised UI and added extra sections to existing website</p>
+</td>
+<td width="33%" valign="top">
+    <h3 align="center">Travel Advisor</h3>
+        <br />
+    <a target="_blank" href="https://alexandruoprisan.eu/">
+            <img src="media/sound-designer.gif" width="100%"  alt="Sound Designer Portfolio"/>
+    </a>
+    <br />
+    <p align="center">
+        
+<!-- <a href="https://github.com/lauraoprisan/alex-sound-design" target="_blank">
+    <img src="https://img.shields.io/badge/-Github%20repo-%2324292f"/>
+</a> -->
+<a href="https://www.gradinita-noel.ro/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-blue"/>
+</a>
+</p>
+<p align="center"><strong>HTML, CSS</strong>
+<br />
+   A website that combines smoothly both presentation of services and marketing of a travel advisor</p>
+</td>
+</tr>
 </table>
 
 
