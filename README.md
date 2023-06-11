@@ -67,11 +67,11 @@
 
 <!--second row -->
   <tr>
-    <td width="33%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Dentist Office</h3>
         <br />
         <a target="_blank" href="https://dentist4u.ro/">
-            <img src="media/dentist.gif" width="33%" alt="Dentist office Presentation"/>
+            <img src="media/dentist.gif" width="100%" alt="Dentist office Presentation"/>
         </a>
         <br />
         <p align="center">
@@ -87,11 +87,11 @@
 <br />
  A presentation about a dentist office with their team, services, prices and testimonials.</p>
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
     <h3 align="center">Noel Kindergarden</h3>
         <br />
     <a target="_blank" href="https://www.gradinita-noel.ro/">
-            <img src="media/noel.gif" width="33%"  alt="Sound Designer Portfolio"/>
+            <img src="media/noel.gif" width="100%"  alt="Sound Designer Portfolio"/>
     </a>
     <br />
     <p align="center">
@@ -107,11 +107,16 @@
 <br />
  A kindergarden presentation - optimised UI and added extra sections to existing website</p>
 </td>
-<td width="33%" valign="top">
+
+</tr>
+<!--third row -->
+  <tr>
+    
+<td width="50%" valign="top">
     <h3 align="center">Travel Advisor</h3>
         <br />
     <a target="_blank" href="https://alexandruoprisan.eu/">
-            <img src="media/sound-designer.gif" width="33%"  alt="Sound Designer Portfolio"/>
+            <img src="media/sound-designer.gif" width="100%"  alt="Sound Designer Portfolio"/>
     </a>
     <br />
     <p align="center">
