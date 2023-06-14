@@ -35,9 +35,9 @@
 <a href="https://github.com/lauraoprisan/human-library" target="_blank">
     <img src="https://img.shields.io/badge/-Github%20repo-%2324292f"/>
 </a>  
-<!-- <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=Website&message=Website&color=blue"/>
-</a> -->
+<a href="https://human-library.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-blue"/>
+</a>
 </p>
 <p align="center"><strong>Javascript, EJS, CSS, Node.js, & Express.js, MongoDB</strong> 
 <br />
