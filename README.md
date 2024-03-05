@@ -10,7 +10,7 @@
 </p>
 
 
- 🔭 Currently working on: [Human Library](https://github.com/lauraoprisan/human-library)
+ 🔭 Currently working on: [Instagram Clone](https://github.com/lauraoprisan/instagram-clone)
 
  🌱 Learning **React**
 
