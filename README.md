@@ -10,7 +10,7 @@
 </p>
 
 
- 🔭 Currently working on: [Instagram Clone](https://github.com/lauraoprisan/instagram-clone)
+ 🔭 Currently working on: [Donation App](https://github.com/lauraoprisan/donation-app)
 
  🌱 Learning **React**
 
