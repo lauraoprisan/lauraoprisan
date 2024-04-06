@@ -139,20 +139,20 @@
 <h2 align="center">Technologies</h2>
 <p align="center"> 
     <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="html5" width="40" height="40"/></a>
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css3" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>  
+    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css3" width="40" height="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" width="40" height="40"/></a>
+    <a href="#"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/></a>
 </p>
  <h2 align="center">Tools</h2>
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="git" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="40" height="40"/> 
+    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/VSCode-Dark.svg" alt="vscode" width="40" height="40"/></a> 
+    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg" alt="git" width="40" height="40"/></a> 
+    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/></a> 
+    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Photoshop.svg" alt="photoshop" width="40" height="40"/></a> 
+    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Postman.svg" alt="postman" width="40" height="40"/></a> 
 </p>
 <h2 align="center">Connect</h2>
 <p align="center">
