@@ -143,7 +143,7 @@
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/> 
     <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg" alt="mongodb" width="40" height="40"/>  
 </p>
  <h2 align="center">Tools</h2>
