@@ -26,7 +26,7 @@
       <td width="50%" valign="top">
       <h3 align="center">Donation App</h3>
         <br />
-        <a target="_blank" href="">
+        <a target="_blank" href="https://donation-app-taupe.vercel.app/">
             <img src="media/donation-app.gif" width="100%" alt="Donation App"/>
         </a>
         <br />
@@ -46,7 +46,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Human Library App</h3>
         <br />
-        <a target="_blank" href="">
+        <a target="_blank" href="https://human-library.up.railway.app/">
             <img src="media/human-library.gif" width="100%" alt="Human Library App"/>
         </a>
         <br />
