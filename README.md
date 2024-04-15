@@ -41,7 +41,7 @@
 </p>
 <p align="center"><strong>HTML, CSS, Javascript, React.js, Node.js, Express.js, MongoDB</strong>
 <br />
- A MERN stack web app dedicated to donations, where people's needs are shared and others can offer to help. </p>
+ A MERN stack web app dedicated to donations, where people's needs are shared and others can offer to help </p>
 </td>
     <td width="50%" valign="top">
       <h3 align="center">Human Library App</h3>
@@ -61,7 +61,7 @@
 </p>
 <p align="center"><strong>EJS, CSS, Javascript, Node.js, Express.js, MongoDB</strong>
 <br />
- A web application where people can read other people's life stories and share their own.</p>
+ A web application where people can read other people's life stories and share their own</p>
 </td>
 
 </tr>
@@ -106,7 +106,7 @@
 </p>
 <p align="center"><strong>HTML, CSS, Javascript</strong>
 <br />
- A presentation about a dentist office with their team, services, prices and testimonials.</p>
+ A presentation about a dentist office with their team, services, prices and testimonials</p>
 </td>
 
 
