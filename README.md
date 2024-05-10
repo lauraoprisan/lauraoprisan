@@ -12,7 +12,7 @@
 
  🔭 Currently working on: [Donation App](https://github.com/lauraoprisan/donation-app)
 
- 🌱 Learning **AWS Cloud**
+ 🌱 Learning **Redux**
 
  📄 Know about my experiences: [My Resume](<docs/laura-oprisan-resume.pdf>)
 
