@@ -163,7 +163,7 @@
     <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg" alt="html5" width="40" height="40"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg" alt="css3" width="40" height="40"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/></a>
-    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/iconsTypeScript.svg" alt="typescript" width="40" height="40"/></a>
+    <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TypeScript.svg" alt="typescript" width="40" height="40"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg" alt="react" width="40" height="40"/></a>
     <a href="#"> <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg" alt="nodejs" width="40" height="40"/></a>
     <a href="#"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg" alt="express" width="40" height="40"/></a>
