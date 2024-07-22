@@ -23,6 +23,26 @@
 
 <!--second row -->
   <tr>
+            <td width="50%" valign="top">
+      <h3 align="center">Notes App</h3>
+        <br />
+        <a target="_blank" href="https://notes-app-theta-weld.vercel.app/">
+            <img src="media/notes-app.gif" width="100%" alt="Notes App"/>
+        </a>
+        <br />
+        <p align="center">
+
+<a href="https://github.com/lauraoprisan/notes-app" target="_blank">
+    <img src="https://img.shields.io/badge/-Github%20repo-%2324292f"/>
+</a>
+<a href="https://notes-app-theta-weld.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-blue"/>
+</a>
+</p>
+<p align="center"><strong>HTML, CSS, JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB</strong>
+<br />
+ A TypeScript MERN Stack App that aims to be a combination of Google Keep and Milanote </p>
+</td>
       <td width="50%" valign="top">
       <h3 align="center">Donation App</h3>
         <br />
@@ -39,11 +59,17 @@
     <img src="https://img.shields.io/badge/-Website-blue"/>
 </a>
 </p>
-<p align="center"><strong>HTML, CSS, Javascript, React.js, Node.js, Express.js, MongoDB</strong>
+<p align="center"><strong>HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB</strong>
 <br />
  A MERN stack web app dedicated to donations, where people's needs are shared and others can offer to help </p>
 </td>
-    <td width="50%" valign="top">
+
+
+</tr>
+
+<!--second row -->
+  <tr>
+          <td width="50%" valign="top">
       <h3 align="center">Human Library App</h3>
         <br />
         <a target="_blank" href="https://human-library.up.railway.app/">
@@ -59,15 +85,10 @@
     <img src="https://img.shields.io/badge/-Website-blue"/>
 </a>
 </p>
-<p align="center"><strong>EJS, CSS, Javascript, Node.js, Express.js, MongoDB</strong>
+<p align="center"><strong>EJS, CSS, JavaScript, Node.js, Express.js, MongoDB</strong>
 <br />
  A web application where people can read other people's life stories and share their own</p>
 </td>
-
-</tr>
-
-<!--second row -->
-  <tr>
   <td width="50%" valign="top">
     <h3 align="center">Sound Designer Portfolio</h3>
         <br />
@@ -84,10 +105,13 @@
     <img src="https://img.shields.io/badge/-Website-blue"/>
 </a>
 </p>
-<p align="center"><strong>HTML, CSS, Javascript</strong>
+<p align="center"><strong>HTML, CSS, JavaScript</strong>
 <br />
  A portfolio that integrates sounds and displays the work of the artist efficiently</p>
 </td>
+</tr>
+<!--third row -->
+  <tr>
     <td width="50%" valign="top">
       <h3 align="center">Dentist Office</h3>
         <br />
@@ -104,16 +128,10 @@
     <img src="https://img.shields.io/badge/-Website-blue"/>
 </a>
 </p>
-<p align="center"><strong>HTML, CSS, Javascript</strong>
+<p align="center"><strong>HTML, CSS, JavaScript</strong>
 <br />
  A presentation about a dentist office with their team, services, prices and testimonials</p>
 </td>
-
-
-</tr>
-<!--third row -->
-  <tr>
-
 <td width="50%" valign="top">
     <h3 align="center">Noel Kindergarden</h3>
         <br />
@@ -133,26 +151,6 @@
 <p align="center"><strong>HTML, CSS</strong>
 <br />
  A kindergarden presentation - optimised UI and added extra sections to existing website</p>
-</td>
-<td width="50%" valign="top">
-    <h3 align="center">Travel Advisor</h3>
-        <br />
-    <a target="_blank" href="https://trueblue.ro/">
-            <img src="media/travel.gif" width="100%"  alt="Travel Advisor Website"/>
-    </a>
-    <br />
-    <p align="center">
-
-<!-- <a href="https://github.com/lauraoprisan/alex-sound-design" target="_blank">
-    <img src="https://img.shields.io/badge/-Github%20repo-%2324292f"/>
-</a> -->
-<a href="https://trueblue.ro/" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-blue"/>
-</a>
-</p>
-<p align="center"><strong>HTML, CSS</strong>
-<br />
-   A website that combines smoothly both presentation of services and marketing of a travel advisor</p>
 </td>
 </tr>
 <!--fourth row -->
