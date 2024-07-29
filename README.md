@@ -27,7 +27,7 @@
       <h3 align="center">Notes App</h3>
         <br />
         <a target="_blank" href="https://notes-app-theta-weld.vercel.app/">
-            <img src="media/notes-app.gif" width="100%" alt="Notes App"/>
+            <img src="media/notes-app-2.gif" width="100%" alt="Notes App"/>
         </a>
         <br />
         <p align="center">
