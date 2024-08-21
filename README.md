@@ -12,7 +12,7 @@
 
  🔭 Currently working on: [Notes App](https://github.com/lauraoprisan/notes-app)
 
- 🌱 Learning **Redux**
+ 🌱 Learning **Dart and Flutter**
 
  📄 Know about my experiences: [My Resume](<docs/laura-oprisan-resume.pdf>)
 
