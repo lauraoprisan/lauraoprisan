@@ -10,9 +10,12 @@
 </p>
 
 
- 🔭 Currently working on: [Notes App](https://github.com/lauraoprisan/notes-app)
+
+<!--
+🔭 Currently working on: [Notes App](https://github.com/lauraoprisan/notes-app)
 
  🌱 Learning **Dart and Flutter**
+ -->
 
  📄 Know about my experiences: [My Resume](<docs/laura-oprisan-resume.pdf>)
 
@@ -26,18 +29,19 @@
             <td width="50%" valign="top">
       <h3 align="center">Notes App</h3>
         <br />
-        <a target="_blank" href="https://notes-app-theta-weld.vercel.app/">
+<!--         <a target="_blank" href="https://notes-app-theta-weld.vercel.app/">
             <img src="media/notes-app-2.gif" width="100%" alt="Notes App"/>
-        </a>
+        </a> -->
+         <img src="media/notes-app-2.gif" width="100%" alt="Notes App"/>
         <br />
         <p align="center">
 
 <a href="https://github.com/lauraoprisan/notes-app" target="_blank">
     <img src="https://img.shields.io/badge/-Github%20repo-%2324292f"/>
 </a>
-<a href="https://notes-app-theta-weld.vercel.app/" target="_blank">
+<!-- <a href="https://notes-app-theta-weld.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-blue"/>
-</a>
+</a> -->
 </p>
 <p align="center"><strong>HTML, CSS, JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB</strong>
 <br />
@@ -46,18 +50,19 @@
       <td width="50%" valign="top">
       <h3 align="center">Donation App</h3>
         <br />
-        <a target="_blank" href="https://donation-app-taupe.vercel.app/">
+<!--         <a target="_blank" href="https://donation-app-taupe.vercel.app/">
             <img src="media/donation-app.gif" width="100%" alt="Donation App"/>
-        </a>
+        </a> -->
+          <img src="media/donation-app.gif" width="100%" alt="Donation App"/>
         <br />
         <p align="center">
 
 <a href="https://github.com/lauraoprisan/donation-app" target="_blank">
     <img src="https://img.shields.io/badge/-Github%20repo-%2324292f"/>
 </a>
-<a href="https://donation-app-taupe.vercel.app/" target="_blank">
+<!-- <a href="https://donation-app-taupe.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-blue"/>
-</a>
+</a> -->
 </p>
 <p align="center"><strong>HTML, CSS, JavaScript, React.js, Node.js, Express.js, MongoDB</strong>
 <br />
@@ -72,18 +77,19 @@
           <td width="50%" valign="top">
       <h3 align="center">Human Library App</h3>
         <br />
-        <a target="_blank" href="https://human-library.up.railway.app/">
+<!--         <a target="_blank" href="https://human-library.up.railway.app/">
             <img src="media/human-library.gif" width="100%" alt="Human Library App"/>
-        </a>
+        </a> -->
+        <img src="media/human-library.gif" width="100%" alt="Human Library App"/>
         <br />
         <p align="center">
 
 <a href="https://github.com/lauraoprisan/human-library" target="_blank">
     <img src="https://img.shields.io/badge/-Github%20repo-%2324292f"/>
 </a>
-<a href="https://human-library.up.railway.app/" target="_blank">
+<!-- <a href="https://human-library.up.railway.app/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-blue"/>
-</a>
+</a> -->
 </p>
 <p align="center"><strong>EJS, CSS, JavaScript, Node.js, Express.js, MongoDB</strong>
 <br />
@@ -91,7 +97,7 @@
 </td>
   <td width="50%" valign="top">
     <h3 align="center">Sound Designer Portfolio</h3>
-        <br />
+        <br/>
     <a target="_blank" href="https://alexandruoprisan.eu/">
             <img src="media/sound-designer.gif" width="100%"  alt="Sound Designer Portfolio"/>
     </a>
@@ -121,9 +127,6 @@
         <br />
         <p align="center">
 
-<!-- <a href="https://github.com/lauraoprisan/human-library" target="_blank">
-    <img src="https://img.shields.io/badge/-Github%20repo-%2324292f"/>
-</a>   -->
 <a href="https://dentist4u.ro/" target="_blank">
     <img src="https://img.shields.io/badge/-Website-blue"/>
 </a>
